@@ -8,7 +8,8 @@ Given a stream of elements too large to store in memory, pick a random element f
 """
 
 """
-interesting blog: https://galaiko.rocks/posts/probability/
+This one in my opinion is particulary hard, I don't think I have fully understood the problematic yet but here is a blog 
+which explain it: https://galaiko.rocks/posts/probability/
 """
 
 import random
